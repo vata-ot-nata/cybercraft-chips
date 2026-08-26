@@ -1,0 +1,12 @@
+name: ServerChips
+version: '${project.version}'
+main: cyberprank.serverchips.ServerChips
+api-version: 1.18
+commands:
+  createserver:
+    description: 'creates server for chips'
+    permission: 'createserver'
+  editdata:
+    description: 'edit data on chip'
+  checkdata:
+    description: 'check data on chip'
