@@ -6,7 +6,7 @@
 
     <groupId>cyberprank</groupId>
     <artifactId>serverChips</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>ServerChips</name>
