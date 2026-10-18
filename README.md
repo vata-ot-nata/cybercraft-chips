@@ -12,7 +12,7 @@ Each chip is assigned its own ID.
 
 ## Installation
 
-1. [Download the latest serverChips.jar](https://github.com/vata-ot-nata/cybercraft-implants/releases/latest) and place it in your `plugins` folder
+1. [Download the latest serverChips.jar](https://github.com/vata-ot-nata/cybercraft-chips/latest) and place it in your `plugins` folder
 2. Restart the server
 3. Use commands below to place a Server and to get a chip.
 
